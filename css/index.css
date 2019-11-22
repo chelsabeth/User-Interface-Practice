@@ -162,3 +162,47 @@ a {
     margin-bottom: 20px;
 }
 
+/* Prepare yourself...this next part is not DRY at all...ew! */
+
+#one.box {
+    background-color: teal;
+}
+
+#two.box {
+    background-color: gold;
+}
+
+#three.box {
+    background-color: cadetblue;
+}
+
+#four.box {
+    background-color: coral;
+}
+
+#five.box {
+    background-color: crimson;
+}
+
+#six.box {
+    background-color: forestgreen;
+}
+
+#seven.box {
+    background-color: darkorchid;
+}
+
+#eight.box {
+    background-color: hotpink;
+}
+
+#nine.box {
+    background-color: indigo;
+}
+
+#ten.box {
+    background-color: dodgerblue;
+}
+
+
+
