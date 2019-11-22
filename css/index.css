@@ -154,8 +154,11 @@ a {
     text-decoration: none;
     color: black;
     font-size: 20px;
-    margin-left: 70px;
+    margin-left: 65px;
 }
 
-
+.top-img {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
