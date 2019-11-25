@@ -207,24 +207,48 @@ a {
 /* ABOUT PAGE STYLES */
 
 .about {
-    border-bottom: 2px dashed black;
+    border-bottom: 1px dashed black;
     padding: 15px;
     margin-bottom: 30px;
     font-size: 16px;
 }
 
+
+
+
+.strat-and-work-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .strategy {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    border-bottom: 1px dashed black;
 }
 
 .how-we-work {
     display: flex;
     flex-direction: column;
+}
+
+
+
+
+
+/* .places-we-work {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.collaboration {
+    display: flex;
+    flex-direction: column;
     align-items: flex-end;
     margin-top: -352px;
-}
+} */
 
 
 
