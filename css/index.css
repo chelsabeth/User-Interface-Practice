@@ -204,5 +204,14 @@ a {
     background-color: dodgerblue;
 }
 
+/* ABOUT PAGE STYLES */
+
+.about {
+    border-bottom: 2px dashed black;
+    padding: 15px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
 
 
