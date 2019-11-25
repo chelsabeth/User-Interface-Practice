@@ -220,6 +220,7 @@ a {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-bottom: 30px;
 }
 
 .strategy {
@@ -231,6 +232,7 @@ a {
 .how-we-work {
     display: flex;
     flex-direction: column;
+    border-bottom: 1px dashed black;
 }
 
 
@@ -244,11 +246,24 @@ a {
 .places-we-work {
     display: flex;
     flex-direction: column;
+    border-bottom: 1px dashed black;
 }
 
 .collaboration {
     display: flex;
     flex-direction: column;
+    border-bottom: 1px dashed black;
+}
+
+
+/* BOTTOM SECTION__ABOUT PAGE */
+.lets-work-together {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    
 }
 
 
