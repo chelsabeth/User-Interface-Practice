@@ -215,7 +215,7 @@ a {
 
 
 
-
+/* TOP BOXES__ABOUT PAGE */
 .strat-and-work-container{
     display: flex;
     flex-direction: row;
@@ -234,21 +234,22 @@ a {
 }
 
 
+/* BOTTOM BOXES__ABOUT PAGE */
+.work-and-collab-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
-
-
-/* .places-we-work {
+.places-we-work {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
 }
 
 .collaboration {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
-    margin-top: -352px;
-} */
+}
 
 
 
