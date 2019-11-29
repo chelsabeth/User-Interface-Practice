@@ -144,3 +144,140 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.top-nav {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 65px;
+}
+
+.top-img {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Prepare yourself...this next part is not DRY at all...ew! */
+
+#one.box {
+    background-color: teal;
+}
+
+#two.box {
+    background-color: gold;
+}
+
+#three.box {
+    background-color: cadetblue;
+}
+
+#four.box {
+    background-color: coral;
+}
+
+#five.box {
+    background-color: crimson;
+}
+
+#six.box {
+    background-color: forestgreen;
+}
+
+#seven.box {
+    background-color: darkorchid;
+}
+
+#eight.box {
+    background-color: hotpink;
+}
+
+#nine.box {
+    background-color: indigo;
+}
+
+#ten.box {
+    background-color: dodgerblue;
+}
+
+/* ABOUT PAGE STYLES */
+
+.about {
+    border-bottom: 1px dashed black;
+    padding: 15px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+
+
+/* TOP BOXES__ABOUT PAGE */
+.strat-and-work-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.strategy {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dashed black;
+}
+
+.how-we-work {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dashed black;
+}
+
+
+/* BOTTOM BOXES__ABOUT PAGE */
+.work-and-collab-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.places-we-work {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dashed black;
+}
+
+.collaboration {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dashed black;
+}
+
+
+/* BOTTOM SECTION__ABOUT PAGE */
+.lets-work-together {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    height: 40px;
+    width: 140px;
+    border-radius: 10px;
+    /* font-weight: bold; */
+    font-size: 16px;
+    /* border-width: 5px; */
+    border: 2px solid black;
+}
+
+.space {
+    margin-top: 10px;
+}
+
+
+
+
